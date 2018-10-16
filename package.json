@@ -1,0 +1,24 @@
+{
+  "name": "vue-tag-area",
+  "version": "0.0.1",
+  "description": "A tag area input component for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyinchao/vue-tag-area.git"
+  },
+  "keywords": [
+    "vue",
+    "tag",
+    "input"
+  ],
+  "author": "yincharles@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyinchao/vue-tag-area/issues"
+  },
+  "homepage": "https://github.com/iyinchao/vue-tag-area#readme"
+}
